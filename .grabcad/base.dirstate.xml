@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-06-01T09:49:38.4818622+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>COTS\Fasteners\BHCS.SLDPRT</FileName>
+      <SHA1>74503FAD8AB79DCCE07559B559F3C4C72850451E</SHA1>
+      <FileSize>570225</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\Fasteners\FHCS.SLDPRT</FileName>
+      <SHA1>D8822E8877333CF0F1DE588F778EDE206B4A413E</SHA1>
+      <FileSize>448999</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\Fasteners\M3x0.5 SHCS.SLDPRT</FileName>
+      <SHA1>1D9B59448CB68E5A6C3C11CD438AAF5666E78B73</SHA1>
+      <FileSize>340298</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\Fasteners\MS-C-0004-M3x0.5x10L SHCS_91292A113.SLDPRT</FileName>
+      <SHA1>BCE6F2E92ECE678103F6DBB6166F1033D6F13EA3</SHA1>
+      <FileSize>251169</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\Fasteners\Metric BHCS.SLDPRT</FileName>
+      <SHA1>E8B4F3436A28677D552A791470FE850715DD50EB</SHA1>
+      <FileSize>1936204</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\Fasteners\SHCS.SLDPRT</FileName>
+      <SHA1>6C6D202AC1DB4F054C18B4F921FF4B128C7B1C9C</SHA1>
+      <FileSize>648505</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\T200-THRUSTER-R1\T200-THRUSTER-R1.IGS</FileName>
+      <SHA1>A8A64AD5FA9CA17BBB242F8299BF8DB8F7384C1E</SHA1>
+      <FileSize>18458774</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\T200-THRUSTER-R1\T200-THRUSTER-R1.SLDPRT</FileName>
+      <SHA1>8251E79A457FF38714EEEC84196F728ABA23532B</SHA1>
+      <FileSize>5399528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\T200-THRUSTER-R1\T200-THRUSTER-R1.STEP</FileName>
+      <SHA1>420F1FD66E649DFA590FB6F0B559483A0EE69BEA</SHA1>
+      <FileSize>11005381</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>COTS\T200-THRUSTER-R1\T200-THRUSTER-R1.STL</FileName>
+      <SHA1>66CC1D6B04A530D6449B13988ABB0B1C69A9F199</SHA1>
+      <FileSize>5445784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-A-0001-Crush.SLDASM</FileName>
+      <SHA1>283D0E4AE1FB6820890DA95AC0FCB23FB3A3D353</SHA1>
+      <FileSize>5604005</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-A-0002-Frame.SLDASM</FileName>
+      <SHA1>83A958E2045B520E7EDBA9857AB1737CB78B7DB3</SHA1>
+      <FileSize>309266</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-A-0003-Electronics Enclosure.SLDASM</FileName>
+      <SHA1>A637557B8817F9021F7485014FAD4510E640505D</SHA1>
+      <FileSize>146517</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-P-0007-FacePlate.SLDPRT</FileName>
+      <SHA1>43139B4DC50EBBDED327E51D805056B4E3B94690</SHA1>
+      <FileSize>312295</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-P-0021-FacePlateLidMounts.SLDPRT</FileName>
+      <SHA1>824541A189D0C2A595F79AA57CEDCE8345C790E5</SHA1>
+      <FileSize>252023</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-P-0027-TopFin.SLDPRT</FileName>
+      <SHA1>65E8BE3AE864FF1F52950F7E952364B1070B3817</SHA1>
+      <FileSize>127330</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-P-0027-TopFin.STL</FileName>
+      <SHA1>185E8559652F6B62973BA3505D03926B92A14FA0</SHA1>
+      <FileSize>31284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-P-RestingFeet.SLDPRT</FileName>
+      <SHA1>FC2D2433C6D664763CDC028CF9BCAB910317DEBF</SHA1>
+      <FileSize>133068</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CR-P-RestingFeet.STL</FileName>
+      <SHA1>A6EA21E6C887CDFFC464D26A37C836173FA8EAE8</SHA1>
+      <FileSize>23084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-A-0004b-VerticalMotorAssem.SLDASM</FileName>
+      <SHA1>444A9FAB5281A9AA51ACF1AE305D480531CABEC6</SHA1>
+      <FileSize>4194317</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-A-0006-Lid.SLDASM</FileName>
+      <SHA1>D14B13C3CEE94F59E41B94E4E432021B73B51E6E</SHA1>
+      <FileSize>184985</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0003a-Electronics Enclosure, Body-BAD.SLDPRT</FileName>
+      <SHA1>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</SHA1>
+      <FileSize>0</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0003a-Electronics Enclosure, Body.SLDPRT</FileName>
+      <SHA1>67FEB240D315B005A70ACE51FD20D2286AAFA9B6</SHA1>
+      <FileSize>249323</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0003b-Electronics Enclosure, Body.SLDPRT</FileName>
+      <SHA1>B2DCE7917FE02413D16DAB55A590F07F52C7ADE4</SHA1>
+      <FileSize>122034</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0004a-Electronics Enclosure, Lid.SLDPRT</FileName>
+      <SHA1>B30E29670361C8FCF3EC12B9E9DDA7C185F95924</SHA1>
+      <FileSize>486370</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0004a-Electronics Enclosure, Lid_Measure.STL</FileName>
+      <SHA1>B563FBD2516ED442AB309534DAF01BEC8AB71C4D</SHA1>
+      <FileSize>134784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005-HeadlightBracket.SLDPRT</FileName>
+      <SHA1>92A1CC8DC81DA5C5D645D94E8C1A31D90F29D787</SHA1>
+      <FileSize>76209</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005a-Frame Base (Design B).SLDPRT</FileName>
+      <SHA1>C1655240BCA91C020E5F2EA22C9C52636551C351</SHA1>
+      <FileSize>218284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005a-Frame Top (Design B ).SLDPRT</FileName>
+      <SHA1>BE1B1145C2E6B484616F7E77F6106BD10675A7B2</SHA1>
+      <FileSize>129505</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005b-Frame (Design C).SLDPRT</FileName>
+      <SHA1>D287E7DB47CA2183E6ADAED667D0E8A146E3076F</SHA1>
+      <FileSize>59841</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005b-Frame-MotorMount (Design D).SLDPRT</FileName>
+      <SHA1>8457BCC1F25283C3D7BB4A3840995CCB99766B5D</SHA1>
+      <FileSize>124565</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005b-Frame-MotorMount Horizontal.SLDPRT</FileName>
+      <SHA1>F63FF0D0D85B95F3CE35B848D585F2AF0464E773</SHA1>
+      <FileSize>272714</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005b-Frame-MotorMount Vertical.SLDPRT</FileName>
+      <SHA1>936CE419744A0E52155D61D1D8C24A5827768F63</SHA1>
+      <FileSize>308228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005b-Frame-MotorMount Vertical.STL</FileName>
+      <SHA1>A8551D9AC5476571A6485F8AD4FCE3E24BB521A2</SHA1>
+      <FileSize>65684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0005b-Frame-MotorMount-Vectorized.SLDPRT</FileName>
+      <SHA1>C32A7249FAD7A793DE7D351EFA3432EFBA993664</SHA1>
+      <FileSize>91029</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0006-VectorizedMotorPlate.SLDPRT</FileName>
+      <SHA1>942E79F08D2FA962B611B2FE5175184190EE8AE3</SHA1>
+      <FileSize>54311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0007-VectorizedMotor.SLDPRT</FileName>
+      <SHA1>467ECEAD74285E0FF879D33590A9F7A27CB78B6D</SHA1>
+      <FileSize>98441</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0016-P-FrontWindow.SLDPRT</FileName>
+      <SHA1>68A0A258AE1BCB9A806FFF5B00260B4A2F4E952C</SHA1>
+      <FileSize>112373</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0017-LiscencePlate.SLDPRT</FileName>
+      <SHA1>7E10FF0174FF5D46BC8B301A4455F9CAD52E5DA9</SHA1>
+      <FileSize>542258</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0019-LidBase-EX.SLDPRT</FileName>
+      <SHA1>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</SHA1>
+      <FileSize>0</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0019-LidBase.SLDPRT</FileName>
+      <SHA1>83A8A86CF77E4CF4657BE62F5BE4C217CDCC5833</SHA1>
+      <FileSize>131002</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0019-LidTop.SLDPRT</FileName>
+      <SHA1>72BEC1384D431F776F7152AA03FB22E29F81E42E</SHA1>
+      <FileSize>160278</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0019-P-DownWindow.SLDPRT</FileName>
+      <SHA1>039F1DCF03B01EA32921B13E2FE87DEFA5764488</SHA1>
+      <FileSize>109448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0020-AcrylicDome.SLDPRT</FileName>
+      <SHA1>17ECE9D3759B32228E02C58737A4DAFEDAA1528F</SHA1>
+      <FileSize>232967</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-P-0029-OriginalLid.SLDPRT</FileName>
+      <SHA1>FF69B0B11F6902E377EFCFE7BD4420B8D3C1DDA9</SHA1>
+      <FileSize>141232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\CR-SA-0003a-Electronics Enclosure.SLDASM</FileName>
+      <SHA1>98C23C5B645096DCAADD406D4C914055D5E930C6</SHA1>
+      <FileSize>141841</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\Crush Idea #2.SLDASM</FileName>
+      <SHA1>F793DA76261F6D53E02D903B77A484687EF98DDD</SHA1>
+      <FileSize>190283</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\FONKYTOWN.SLDASM</FileName>
+      <SHA1>6364E372258E0F0F457194AC34B204C83E3258E3</SHA1>
+      <FileSize>4210376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\FrameSubAssem.SLDASM</FileName>
+      <SHA1>935D5E6948422FEFF40F353A47DBA6A1A924C99C</SHA1>
+      <FileSize>119917</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\HexAPod.SLDPRT</FileName>
+      <SHA1>E6730036989557CBBCBF34DC369CF4ADA1632E15</SHA1>
+      <FileSize>84552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\MotorForNick.STL</FileName>
+      <SHA1>A11E8F215F25E9315C8CE483CB5C10AC87902963</SHA1>
+      <FileSize>165384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\MotorMountVertical.STL</FileName>
+      <SHA1>1102FE1CDD185B33CB24C1A28F5450E95CAA1B42</SHA1>
+      <FileSize>98084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\Temp Assem.SLDASM</FileName>
+      <SHA1>0D12BF8CC6739669A920DDFDC3F198FE85622F08</SHA1>
+      <FileSize>195830</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\_CR-P-0004a-Electronics Enclosure, Lid_Manufacture.SLDPRT</FileName>
+      <SHA1>CC3E3479E4D80DA5BFC6282B6B55F5E61B85DF78</SHA1>
+      <FileSize>539012</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\fonky.SLDPRT</FileName>
+      <SHA1>449A6E15F1A8FD4E3D6E23D35D264D674A26BE81</SHA1>
+      <FileSize>115096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\lidReference.SLDPRT</FileName>
+      <SHA1>1204C687FC8B6B1FE6685A7BC372805F2C7603AF</SHA1>
+      <FileSize>395343</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics Enclosure\test.SLDPRT</FileName>
+      <SHA1>E4D2BD5CB20B04B31E8269572F084FC1565EF69C</SHA1>
+      <FileSize>117074</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0001a-Frame, Base Plate.SLDPRT</FileName>
+      <SHA1>ED33887E786C14DE472BA5DA882508FF6D32AAFC</SHA1>
+      <FileSize>341574</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0002a-Frame, Side.SLDPRT</FileName>
+      <SHA1>D315EB8FDB3323673C4B308868487B9BBB9F591D</SHA1>
+      <FileSize>275390</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0003-T200-THRUSTER-R1.SLDPRT</FileName>
+      <SHA1>9D363CFF9DEF12178A8906642EE3D598D021BB63</SHA1>
+      <FileSize>5552625</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0008-CurvedMotorMount.SLDPRT</FileName>
+      <SHA1>4363165829239AE0C54012782C8B2D64FD594080</SHA1>
+      <FileSize>152110</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0008-MotorMount.SLDPRT</FileName>
+      <SHA1>DB7ABF3656BFEEEC3784DBB94A5785041EF5AF92</SHA1>
+      <FileSize>234657</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0011-Butt.SLDPRT</FileName>
+      <SHA1>C716FBC3886C361B02213735A479499396DA6741</SHA1>
+      <FileSize>156933</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0012-LUMEN-ASM-R3.SLDPRT</FileName>
+      <SHA1>2A2D2565E0DFB2A7B0FDA5EFDE98BB0328C8009D</SHA1>
+      <FileSize>703315</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0012-Oval Pull Handle.SLDPRT</FileName>
+      <SHA1>50004C73DA29519D2B89DB30272CCB008A57C967</SHA1>
+      <FileSize>313816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0013-LightMount.SLDPRT</FileName>
+      <SHA1>2C5F2ED32A2FAE2B7ECEB3C15FC7047AD76DB330</SHA1>
+      <FileSize>139599</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0014-Handle.SLDPRT</FileName>
+      <SHA1>E77A751816213BBECA6024C942536ED622908C53</SHA1>
+      <FileSize>330249</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-P-0025-SideHandles.SLDPRT</FileName>
+      <SHA1>E872FD0585BD0CF5FAE02FD3289E29250AD84952</SHA1>
+      <FileSize>283058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-SA-0002a-Frame.SLDASM</FileName>
+      <SHA1>BC8B17B9E15FB5EE514B6A8F17F9E8CBFFBAE492</SHA1>
+      <FileSize>312734</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-SA-0004-HeadlightAndMount.SLDASM</FileName>
+      <SHA1>7707F131F72D14C2C97167271E864195FE2746C1</SHA1>
+      <FileSize>442719</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-SA-0005-FrameAssembly.SLDASM</FileName>
+      <SHA1>5C10F0E71719DF341D266C1D242C34C2D13F97B3</SHA1>
+      <FileSize>5564443</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-SA-003-HorizontalMotors.SLDASM</FileName>
+      <SHA1>4389EDF87F18B4108045AF7B833C9AC90A087503</SHA1>
+      <FileSize>5159532</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-SA-003-HorizontalMotorsAndMount.SLDASM</FileName>
+      <SHA1>6E22224AE63868AB5CE66D56C7794EF4C53106E4</SHA1>
+      <FileSize>4707391</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\CR-SA-HorizontalThrusterAndMount.SLDASM</FileName>
+      <SHA1>016E93EE3A7F0AF4B197B8209354F864A602E7F2</SHA1>
+      <FileSize>4246081</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\HorizontalExpieremtnal.SLDASM</FileName>
+      <SHA1>E3F27113E9B0EB2BD6D6A43575EAE1C1F7FCDF4B</SHA1>
+      <FileSize>273608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\ZED2.step</FileName>
+      <SHA1>0CA606ADBC0B3796B90589E20D9432A0A4D65CE0</SHA1>
+      <FileSize>240159</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\ZED2.stl</FileName>
+      <SHA1>D08ED20143A00C54273DA7CC348335901E29F90F</SHA1>
+      <FileSize>179684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\fixture.SLDPRT</FileName>
+      <SHA1>8DFA5795DFB4817D4B76E5D8BDBC7C8818225D9C</SHA1>
+      <FileSize>196483</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Frame\sample.SLDPRT</FileName>
+      <SHA1>2ACC37AF95CD5CE077158FCCE6B62887315E619E</SHA1>
+      <FileSize>226390</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Lid\CR-A-0006-LidAssembly.SLDASM</FileName>
+      <SHA1>C26562F90F65859B36C7AC9ED3F50860F79025F6</SHA1>
+      <FileSize>213761</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Lid\CR-P-0019-LidBase.SLDPRT</FileName>
+      <SHA1>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</SHA1>
+      <FileSize>0</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pink.SLDPRT</FileName>
+      <SHA1>83E1DEEBC85396C040A60D73736059332681D3F9</SHA1>
+      <FileSize>99872</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PinkAssemTest.SLDASM</FileName>
+      <SHA1>DABAFBCED340FD2579E7FD02AA7D95A5C7E892E2</SHA1>
+      <FileSize>4272254</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PinkTestPlate.SLDPRT</FileName>
+      <SHA1>4A224205E39BBB49F28E4021C97212FC8E03B15F</SHA1>
+      <FileSize>246565</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Sensors\LUMEN-ASM-R3-PUBLIC.IGS</FileName>
+      <SHA1>C6EEB73202EFD67C4B1951B351DB5EDBFC05118E</SHA1>
+      <FileSize>5257020</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Sensors\LUMEN-ASM-R3-PUBLIC.SLDPRT</FileName>
+      <SHA1>7EF3E5086D823BBFBD8BEE1E9F7BE36223F68E72</SHA1>
+      <FileSize>698936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Sensors\LUMEN-ASM-R3-PUBLIC.STEP</FileName>
+      <SHA1>A1F00ED65F2E94FF562ACA40F57D07C7EA303C2C</SHA1>
+      <FileSize>2946120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Sensors\LUMEN-ASM-R3-PUBLIC.STL</FileName>
+      <SHA1>878D79D70C25FE6610301FCA46EB29BD1898E06D</SHA1>
+      <FileSize>17399684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SharkFin.SLDPRT</FileName>
+      <SHA1>8809BB4DB9A247811433D8C41AB00FE4EB427E3A</SHA1>
+      <FileSize>42256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ZED2.step.SLDPRT</FileName>
+      <SHA1>EB4A6E1D6C4E7E7B1447E6886D2629A408955E40</SHA1>
+      <FileSize>169860</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
